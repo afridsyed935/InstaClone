@@ -1,0 +1,14 @@
+{
+    "userFirstName": {
+      "min": 2,
+      "max": 250
+    },
+    "LastName": {
+      "min": 2,
+      "max": 250
+    },
+    "password": {
+      "min": 8,
+      "max": 20
+    }
+  }
